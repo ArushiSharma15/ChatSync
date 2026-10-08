@@ -74,23 +74,17 @@ Room activity sidebar
 
 Responsive interface
 
-5. Project Structure
+5. Advantages
 
-ChatApp Project/
-├── Server/
-│   ├── server.js
-│   ├── package.json
-│   └── package-lock.json
-│
-└── Client/
-    ├── src/
-    │   ├── App.jsx
-    │   ├── Chat.jsx
-    │   ├── App.css
-    │   ├── index.css
-    │   └── main.jsx
-    ├── package.json
-    └── package-lock.json
+Fast real-time communication
+
+Simple user interface
+
+Easy room-based chatting
+
+Interactive user experience
+
+Lightweight and scalable architecture
 
 
 6. ChatSync demonstrates how React, Node.js, Express.js, and Socket.IO can be used together to develop a real-time communication system with a modern and user-  friendly interface.
