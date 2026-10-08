@@ -1,16 +1,96 @@
-# React + Vite
+ChatSync – Real-Time Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Project Overview
 
-Currently, two official plugins are available:
+ChatSync is a real-time web-based chat application that allows multiple users to communicate instantly inside chat rooms.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+2. Objectives
 
-## React Compiler
+Provide real-time messaging.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Support multiple chat rooms.
 
-## Expanding the ESLint configuration
+Show online user activity.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Provide typing indicators.
+
+Support emojis and message notifications.
+
+Provide Dark/Light Mode.
+
+Create a simple and professional chat interface.
+
+3. Technologies Used
+
+Frontend
+
+React.js
+
+Vite
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Backend
+
+Node.js
+
+Express.js
+
+Socket.IO
+
+CORS
+
+Development Tools
+
+Visual Studio Code
+
+Git & GitHub
+
+npm
+
+4. Main Features
+
+Real-time messaging
+
+Room-based communication
+
+Join/leave notifications
+
+Typing indicator
+
+Emoji picker
+
+Message notification sound
+
+Dark/Light Mode
+
+3-dot menu
+
+Room activity sidebar
+
+Responsive interface
+
+5. Project Structure
+
+ChatApp Project/
+├── Server/
+│   ├── server.js
+│   ├── package.json
+│   └── package-lock.json
+│
+└── Client/
+    ├── src/
+    │   ├── App.jsx
+    │   ├── Chat.jsx
+    │   ├── App.css
+    │   ├── index.css
+    │   └── main.jsx
+    ├── package.json
+    └── package-lock.json
+
+
+6. ChatSync demonstrates how React, Node.js, Express.js, and Socket.IO can be used together to develop a real-time communication system with a modern and user-  friendly interface.
