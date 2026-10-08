@@ -22,7 +22,7 @@ Create a simple and professional chat interface.
 
 3. Technologies Used
 
-Frontend
+* Frontend
 
 React.js
 
@@ -34,7 +34,7 @@ CSS3
 
 JavaScript
 
-Backend
+* Backend
 
 Node.js
 
@@ -44,7 +44,7 @@ Socket.IO
 
 CORS
 
-Development Tools
+* Development Tools
 
 Visual Studio Code
 
