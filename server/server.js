@@ -76,6 +76,6 @@ io.on("connection", (socket) => {
     });
 });
 
-server.listen(1000, () => {
-    console.log("Server is running on http://localhost:1000");
+server.listen(process.env.PORT || 1000, () => {
+    console.log("Server is running");
 });
